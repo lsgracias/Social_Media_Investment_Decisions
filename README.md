@@ -1,6 +1,6 @@
 # Social_Media_Investment_Decisions
 
-For my NEXIS Finance AI project, we developed a machine learning system to predict stock investment signals by analyzing social media sentiment and its correlation with market movements. Our team built a model that generates actionable investment recommendations (Invest/Hold/Avoid) based on the sentiment analysis of social media discussions around specific stocks.
+I led the NEXIS Finance AI project in Fall 2025, we developed a machine learning system to predict stock investment signals by analyzing social media sentiment and its correlation with market movements. Our team built a model that generates actionable investment recommendations (Invest/Hold/Avoid) based on the sentiment analysis of social media discussions around specific stocks.
 
 ## About the Data
 The dataset was collected from Kaggle, containing social media posts (primarily from Twitter/Reddit) discussing various stocks, along with corresponding stock price movements over a 7-day period. The data includes:
